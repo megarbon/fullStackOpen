@@ -1,6 +1,6 @@
 # Full Stack Open - Universidad de Helsinki
 
-![Full Stack Open]([https://www.mooc.fi/static/moocfi.png](https://www.sttinfo.fi/data/images/00382/395bc891-fb8c-47c3-a253-6a2b19670133.jpg))
+![Full Stack Open]([https://www.mooc.fi/static/moocfi.png](https://www.sttinfo.fi/data/images/00382/395bc891-fb8c-47c3-a253-6a2b19670133.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_University_of_Helsinki_fi.svg/610px-Logo_University_of_Helsinki_fi.svg.png?20210224131651))
 
 ## Descripción
 
