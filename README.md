@@ -1,54 +1,53 @@
-# Full Stack Open - Universidad de Helsinki
+# Full Stack Open - University of Helsinki
 
 ![Full Stack Open](https://tukuz.com/wp-content/uploads/2020/05/university-of-helsinki-logo-vector.png)
 
 
-## Descripción
+## Description
 
-Este repositorio contiene los materiales y ejercicios del curso Full Stack Open ofrecido por la Universidad de Helsinki. Full Stack Open es un curso en línea gratuito y auto-dirigido que proporciona una visión general completa del desarrollo web moderno desde la perspectiva del stack completo (front-end y back-end).
+This repository contains the materials and exercises for the Full Stack Open course offered by the University of Helsinki. Full Stack Open is a free and self-paced online course that provides a comprehensive overview of modern web development from a full-stack perspective (front-end and back-end).
 
-El curso está diseñado para aquellos que desean aprender y dominar tecnologías como JavaScript, React, Node.js, Express, MongoDB y GraphQL. Proporciona una base sólida para desarrolladores web aspirantes o aquellos que desean ampliar sus habilidades en el desarrollo full stack.
+The course is designed for those who want to learn and master technologies such as JavaScript, React, Node.js, Express, MongoDB, and GraphQL. It provides a solid foundation for aspiring web developers or those looking to expand their skills in full-stack development.
 
-Los materiales del curso incluyen:
+The course materials include:
 
-- Presentaciones de diapositivas (slides) y lecturas en línea que cubren los conceptos teóricos.
-- Ejercicios prácticos para aplicar y reforzar los conocimientos adquiridos.
-- Proyectos que ponen en práctica los conceptos aprendidos a lo largo del curso.
-- Documentación detallada y guías paso a paso para cada sección del curso.
-- Recursos adicionales como enlaces a libros, blogs y documentación oficial.
+- Slide presentations and online readings covering theoretical concepts.
+- Practical exercises to apply and reinforce the acquired knowledge.
+- Projects that implement the learned concepts throughout the course.
+- Detailed documentation and step-by-step guides for each section of the course.
+- Additional resources such as links to books, blogs, and official documentation.
 
-## Índice
+## Table of Contents
 
-1. [Introducción al desarrollo web](./part0)
-2. [Front-end con React](./part1)
-3. [Comunicación con el servidor](./part2)
-4. [Programación de servidor con Node.js y Express](./part3)
-5. [Almacenamiento de datos en MongoDB](./part4)
-6. [Gestión de usuarios y autenticación](./part5)
-7. [Rutas de usuario y refactorización](./part6)
-8. [GraphQL](./part7)
-9. [Estado de la aplicación y gestión de la forma](./part8)
-10. [Redux](./part9)
-11. [Pruebas de unidad y de integración](./part10)
-12. [Pruebas de extremo a extremo](./part11)
-13. [Docker](./part12)
-14. [Kubernetes](./part13)
-15. [CI/CD](./part14)
+0. [Fundamentals of Web apps](./part0)
+1. [Introduction to Reacts](./part1)
+2. [Communicating with server](./part2)
+3. [Programming a server with NodeJS and Express](./part3)
+4. [Testing Express servers, user administration](./part4)
+5. [Testing React apps](./part5)
+6. [Advanced state management](./part6)
+7. [React router, custom hooks, styling app with CSS and webpack](./part7)
+8. [GraphQL](./part8)
+9. [TypeScript](./part9)
+10. [React Native](./part10)
+11. [CI/CD](./part11)
+12. [Containers](./part12)
+13. [Using relational databases](./part13)
 
-## Cómo empezar
+## Getting Started
 
-1. Clona este repositorio en tu máquina local.
-2. Navega a la carpeta correspondiente a la parte del curso que deseas estudiar.
-3. Sigue las instrucciones proporcionadas en el archivo `README.md` de cada carpeta para acceder a los materiales y completar los ejercicios.
+1. Clone this repository to your local machine.
+2. Navigate to the folder corresponding to the part of the course you wish to study.
+3. Follow the instructions provided in the `README.md` file of each folder to access the materials and complete the exercises.
 
-## Contribución
+## Contribution
 
-Si encuentras algún error o tienes sugerencias para mejorar el contenido, siéntete libre de abrir una issue o enviar una pull request. Tu contribución es bienvenida y valorada.
+If you find any errors or have suggestions to improve the content, feel free to open an issue or submit a pull request. Your contribution is welcome and appreciated.
 
-## Recursos adicionales
+## Additional Resources
 
-- [Sitio web del curso Full Stack Open](https://fullstackopen.com)
-- [Sitio web de la Universidad de Helsinki](https://www.helsinki.fi/en)
-- [MOOC.fi - Cursos de programación gratuitos de la Universidad de Helsinki](https://www.mooc.fi)
+- [Full Stack Open Course Website](https://fullstackopen.com)
+- [University of Helsinki Website](https://www.helsinki.fi/en)
+- [MOOC.fi - Free Programming Courses by the University of Helsinki](https://www.mooc.fi)
 
-¡Si necesitas hablar conmigo podrás encontrar mi linkedin en mi perfil al igual que mi email y otra información de contacto! 🚀
+If you need to reach out to me, you can find my LinkedIn profile and email in my profile along with other contact information! 🚀
