@@ -1,6 +1,6 @@
 # Full Stack Open - Universidad de Helsinki
 
-![Full Stack Open](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_University_of_Helsinki_fi.svg/610px-Logo_University_of_Helsinki_fi.svg.png?20210224131651)
+![Full Stack Open](https://tukuz.com/wp-content/uploads/2020/05/university-of-helsinki-logo-vector.png)
 
 
 ## Descripción
